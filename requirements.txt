@@ -1,0 +1,8 @@
+groq 
+streamlit 
+requests 
+speechrecognition 
+pyttsx3 
+python-dotenv
+PyAudio
+streamlit_option_menu

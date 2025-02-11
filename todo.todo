@@ -1,0 +1,11 @@
+--> Installing Library List 
+--> pip install groq streamlit requests speechrecognition pyttsx3 python-dotenv
+pip install PyAudio streamlit_option_menu
+
+# installing conda naviagtor
+# create virtual Environment
+--> conda create -n yolo_envLLM python=3.9
+--> conda activate yolo_envLLM
+
+# run main application
+ --> streamlit run app.py
