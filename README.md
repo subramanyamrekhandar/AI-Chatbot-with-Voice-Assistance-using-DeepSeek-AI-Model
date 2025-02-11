@@ -1,4 +1,4 @@
-# AI Chatbot with Voice Assistance
+# AI Chatbot with Voice Assistance By usinng DeepSeek r1 Model
 
 ## Overview
 This project is an AI-powered chatbot with voice assistance, built using **DeepSeek AI** on **Groq API** and a **Streamlit UI**. The chatbot allows users to interact via text or voice input and receive responses using an AI model.
