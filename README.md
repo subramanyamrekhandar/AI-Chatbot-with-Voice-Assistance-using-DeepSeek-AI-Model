@@ -18,7 +18,7 @@ Ensure you have Python 3.9 installed on your system.
 ### Install Dependencies
 Run the following command to install the required Python libraries:
 ```bash
-pip install groq streamlit requests speechrecognition pyttsx3 python-dotenv PyAudio
+pip install groq streamlit requests speechrecognition pyttsx3 python-dotenv PyAudio streamlit_option_menu
 ```
 
 ## Environment Variables
